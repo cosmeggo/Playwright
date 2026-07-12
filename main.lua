@@ -11,7 +11,7 @@ SMODS.Atlas({
 
 SMODS.Atlas({
     key = "balatro", 
-    path = "balatro.png", 
+    path = "Balatro.png", 
     px = 333,
     py = 216,
     prefix_config = { key = false },
