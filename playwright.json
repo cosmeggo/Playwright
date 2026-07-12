@@ -1,0 +1,15 @@
+{
+  "id": "playwright",
+  "name": "Playwright",
+  "author": [ "Cosmeggo" ],
+  "description": "A content mod where original characters become Jokers!",
+  "prefix": "pw",
+  "main_file": "main.lua",
+  "version": "1.0.0~ALPHA",
+  "priority": 0,
+  "badge_colour": "2c2c2c",
+  "badge_text_colour": "fdfdcb",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-1814a)"
+  ]
+}
