@@ -1,4 +1,4 @@
-# Hatchet
+# Playwright
 A Balatro mod made for Artfight 2026!
 
 This mod requires [Steamodded](https://github.com/Steamodded/smods/releases/latest).
